@@ -1,2 +1,2 @@
-# react-tutorial
+# react-todo-app
 Created with CodeSandbox
